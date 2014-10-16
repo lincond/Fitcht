@@ -14,7 +14,7 @@ class Fitcht():
 		print "	Bem vindo ao Fitcht!"
 
 		#Iniciando o console
-		con = console.Console()
+		con = console.Console(0)
 
 #Roda o programa	
 if __name__ == '__main__':
